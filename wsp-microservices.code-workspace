@@ -1,11 +1,26 @@
 {
 	"folders": [
 		{
+			"name": "wsp-microservices",
 			"path": "."
 		},
 		{
-			"name": "restful-web-services",
+			"name": "currency-exchange-service",
+			"path": "../currency-exchange-service"
+		},
+		{
 			"path": "../restful-web-services"
+		},
+		{
+			"name": "currency-conversion-service",
+			"path": "../currency-conversion-service"
+		},
+		{
+			"path": "../git-localconfig-repo"
+		},
+		{
+			"name": "naming-server",
+			"path": "../naming-server"
 		}
 	],
 	"settings": {
