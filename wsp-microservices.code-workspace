@@ -21,6 +21,10 @@
 		{
 			"name": "naming-server",
 			"path": "../naming-server"
+		},
+		{
+			"name": "api-gateway",
+			"path": "../api-gateway"
 		}
 	],
 	"settings": {
